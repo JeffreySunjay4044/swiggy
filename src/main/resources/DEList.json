@@ -1,0 +1,22 @@
+{
+	"listData": [
+		{
+			"id": 567,
+			"current_location": "lat5,long5",
+			"last_order_delivered_time": "2018-08-15 17:55:00.000",
+			"isBusy": false
+		},
+		{
+			"id": 765, 
+			"current_location":"lat7,long7",
+			"last_order_delivered_time":"2018-08-15 17:45:00.000",
+			"isBusy": false
+		},
+		{
+			"id": 766,
+			"current_location": "lat9,long9",
+			"last_order_delivered_time":"2018-08-15 17:55:00.000",
+			"isBusy": false
+		}
+	]
+}
