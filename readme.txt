@@ -14,4 +14,5 @@ And given a list I have created a ranking system and heap based structure for di
 
 
 
-Please find config.properties for
+Please find config.properties for information and for changing assignment priority.
+Input of list and orders are given as json files and have used mapper to map it to respective classes.
